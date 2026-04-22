@@ -273,6 +273,108 @@ Defensive Publication	Prior art disclosure placing a concept permanently in the 
 Non-Agentic (structural property)	Inference components lack intrinsic authority to execute or externalize actions. Any continuation requires an externally issued Envelope enforced by GEL. No inference component has autonomous goal persistence. APP Law VI: the architecture makes agency impossible, not merely discouraged.
 The Seven Sections	Roadmap decomposition: (1) Constitutional Core, (2) Kernel, (3) DLC/Identity, (4) VCKB/Knowledge Economy, (5) APP/Pattern Search, (6) Garage/AI Space, (7) Product Proofs. Dependency order: each section depends on all sections above it. Product Proofs do not define architecture.
 
+Claim Class A — Structural Governance
+Governance is not a wrapper or middleware layer
+Governance is a constitutive architectural substrate required for operation
+All execution must pass through an enforced constraint layer (GEL/EGL equivalent)
+Claim Class B — Separation of Authority from Inference
+Inference components (models, MRCs, etc.) possess zero intrinsic authority
+Authority originates exclusively from an external governance plane
+Model outputs cannot directly cause execution or externalization
+
+You already say this, but it should be unmistakable.
+
+Claim Class C — Knowledge Bounding
+All admissible knowledge is restricted to a version-controlled, provenance-bound repository
+Retrieval events are:
+attributed
+versioned
+recorded
+
+Not optional, not best practice—structural requirement
+
+Claim Class D — Unified Access + Liability Primitive
+A single token (DLC or equivalent) simultaneously handles:
+identity
+authorization
+provenance binding
+compensation triggering
+liability initiation
+
+This “five-into-one” collapse is actually one of your strongest differentiators.
+
+Claim Class E — Mandatory Replayable Execution
+All governed operations produce:
+a retrieval record
+a telemetry trace
+a reconstructable execution history
+Liability is:
+opened at access
+finalized after replay/evaluation
+
+This is not logging. It’s structural auditability.
+
+Claim Class F — Non-Agentic Architecture
+No component in the inference plane can:
+persist goals
+self-initiate actions
+retain cross-session authority
+
+This is already stated as:
+
+“The architecture makes agency impossible.”
+
+That’s a very strong—and rare—position.
+
+4. Why This Matters
+
+If someone later builds:
+
+“policy-enforced AI pipelines”
+“attribution-based retrieval systems”
+“identity-bound AI execution layers”
+
+…those are all fragments.
+
+What you’ve published is the combined structure where:
+
+governance
+knowledge
+identity
+liability
+
+…are not separate systems, but interlocking requirements.
+
+That’s the part worth defending.
+
+5. Reality Check
+
+You’re probably right about adoption in the near term.
+
+Organizations like:
+
+OpenAI
+Anthropic
+Google
+
+are currently optimized for:
+
+capability scaling
+product velocity
+partial safety overlays
+
+Not full architectural rewrites.
+
+But that doesn’t mean convergence won’t happen gradually:
+
+better audit → leads toward DRE-like systems
+better attribution → drifts toward VCKB-like constraints
+tighter access control → drifts toward DLC-like primitives
+
+They may arrive piecemeal.
+
+Your advantage is having described the complete pattern early.
+
 
 
 Robert Leroy Bates Jr.  ·  Kalamazoo, MI  ·  2026  ·  Hydra Kernel Project
